@@ -1,0 +1,2 @@
+.\WinServiceBase.exe -i
+pause
